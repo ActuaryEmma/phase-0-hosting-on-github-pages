@@ -1,11 +1,12 @@
 body{
-    background:blue;
+    background:black;
     text-align: center;
     font-style:italic;
-    font-size: 40px;
-    color: white
-    /*background-color: white;*/
+    font-size: 30px;
+    color: red
+    
 }
 h1 span {
-    background-color:red;
+    background-color:white;
 }
+
